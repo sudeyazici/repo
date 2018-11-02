@@ -7,6 +7,8 @@
  echo  $num. "$i   $( ls $i | wc -l )"
  ((num++))
 
+
+
  done
 
  
