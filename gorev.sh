@@ -12,18 +12,3 @@
  done
 
  
-
-#! /bin/bash
-
- 
-# # y=$( ls | wc -l )
-# # z=$( ls | wc -l )
-# # for i in $x $y
-
-# # do
-# # echo $num $i "=" $x
-# # echo $num $i "=" $z
-# # ((num++))
-# # done
-
-
